@@ -1,0 +1,2 @@
+class_name test_character_idle
+extends State
