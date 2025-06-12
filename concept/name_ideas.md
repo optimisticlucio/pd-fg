@@ -11,7 +11,7 @@ Power Down: Wildcards
 
 - Short and snappy
 - Maybe a little too generic
-- I want to let the wildcard tournament die in a ditch already
+- We've had a lot of things related to the wildcard tournament already, maybe time for a fresh slate
 
 ## General Discussion
 
