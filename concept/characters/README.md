@@ -1,3 +1,3 @@
 # The Characters
 
-- [Gyssabel](/concept/characters/gyssabel)
+- [Gyssabel](/concept/characters/gyssabel.md)

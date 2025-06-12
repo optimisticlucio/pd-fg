@@ -1,6 +1,6 @@
 # Power Down: The Fighting Game
 
-(TODO: [Come up with a better name than this](/concept/name_ideas))
+(TODO: [Come up with a better name than this](/concept/name_ideas.md))
 
 The Power Down Fighting Game (PDFG going forward) is a 1v1 game where each player picks a character from the Power Down cast and beats eachother senseless.
 
